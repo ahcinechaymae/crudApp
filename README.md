@@ -14,7 +14,6 @@ crud-app/
 └── .gitignore
 
 
----
 
 ## 🚀 Features
 
@@ -28,12 +27,12 @@ crud-app/
 
 ### 🎨 Frontend (React + Vite)
 - Functional components using **React Hooks**
-- Routing with **React Router** (List page + Task form page)
-- Fetches data from backend using the `fetch` API (no Axios)
+- Routing with **React Router
+- Fetches data from backend using the `fetch` API 
 - Task form with add/edit functionality
 - Task list with **Edit** / **Delete** options
 - Confirmation modal before deletion
-- Styled with clean modern **CSS** (or Tailwind CSS optionally)
+- Styled with clean modern **CSS** 
 
 ---
 
@@ -85,11 +84,6 @@ Frontend: Jest + React Testing Library
 | Frontend | React, Vite, React Router, CSS      |
 | Backend  | Spring Boot, Spring Data JPA, MySQL |
 | Tools    | Maven, GitHub, IntelliJ, VS Code    |
-
-📸 Screenshots
-![image alt](https://github.com/ahcinechaymae/crudApp/screen1.PNG)
-
-
 
 
 👩‍💻 Author
