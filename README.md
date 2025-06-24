@@ -86,7 +86,7 @@ Frontend: Jest + React Testing Library
 | Tools    | Maven, GitHub, IntelliJ, VS Code    |
 
 📸 Screenshots
-![image alt](https://raw.githubusercontent.com/ahcinechaymae/crudApp/main/screen1.PNG)
+![image alt](https://github.com/ahcinechaymae/crudApp/blob/main/screen2.PNG)
 
 
 
