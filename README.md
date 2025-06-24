@@ -6,9 +6,10 @@ A modern task management app built using **Spring Boot** for the backend and **R
 
 ## 📁 Project Structure
 
+```plaintext
 crud-app/
-├── backend/ # Java Spring Boot (REST API + MySQL)
-├── frontend/
+├── backend/        # Java Spring Boot (REST API + MySQL)
+├── frontend/       # React + Vite frontend
 ├── README.md
 └── .gitignore
 
