@@ -85,6 +85,12 @@ Frontend: Jest + React Testing Library
 | Backend  | Spring Boot, Spring Data JPA, MySQL |
 | Tools    | Maven, GitHub, IntelliJ, VS Code    |
 
+📸 Screenshots
+![image](https://github.com/user-attachments/assets/daafe9b4-48c2-4359-87fe-20bff1964ee4)
+![image](https://github.com/user-attachments/assets/85b6c39e-8aa0-42ce-9b4a-16f5918df8be)
+
+
+
 👩‍💻 Author
 Developed by Chaymaa Ahcine
 💼 Software Engineer
