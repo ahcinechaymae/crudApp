@@ -14,8 +14,7 @@ crud-app/
 └── .gitignore
 
 
-
-## 🚀 Features
+### 🚀 Features
 
 ### 🔧 Backend (Spring Boot)
 - Fully RESTful API built with Spring Boot
